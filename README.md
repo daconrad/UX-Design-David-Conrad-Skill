@@ -1,5 +1,4 @@
 # UX-Design-David-Conrad-Skill
-Here is a complete, production-ready **README.md** file tailored for a GitHub repository hosting a **UX Designer `SKILL.md`** agent skill. It provides clear instructions for design teams, engineers, and AI agent frameworks on how to install, trigger, and customize the skill.
 
 ---
 
