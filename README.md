@@ -6,6 +6,8 @@
 
 Transform AI coding agents and LLM workspaces into strategic UX design partners. This skill equips agents with senior interaction design heuristics, user journey mapping frameworks, wireframing scaffolds, and design system governance.
 
+[🔗 Preview Skill](https://github.com/daconrad/UX-Design-David-Conrad-Skill/blob/main/skill.md)
+
 ---
 
 ## 📌 Overview & Architecture
